@@ -100,3 +100,5 @@ A curation of WebAssembly resources, projects, and communities.
 ## Contributing
 
 Contributions are welcome. Please read the [contribution guidelines](https://github.com/idematos/awesome-webassembly/blob/main/contributing.md) before submitting your changes.
+
+* [Remove Audio](https://remove-audio.com) - Free, browser-based audio remover. No uploads, no sign-up, no watermarks. Batch up to 20 clips.
