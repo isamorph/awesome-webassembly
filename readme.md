@@ -77,6 +77,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Build, test, and publish Rust-generated Wasm.
 - [Wabt](https://github.com/WebAssembly/wabt) - WebAssembly binary tolkit.
 - [WASI](https://github.com/WebAssembly/WASI) - WebAssembly system interface.
+- [Vedaksha](https://github.com/arthiqlabs/vedaksha) - Rust astronomical ephemeris and Vedic computation library shipping a zero-data WebAssembly package for browsers and edge runtimes.
 
 ### Tools
 
