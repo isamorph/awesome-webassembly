@@ -88,6 +88,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [SQLiteLens Studio](https://github.com/aaronaltherr1-png/sqlite-lens) - Desktop-grade in-browser SQLite workbench & ERD studio running 100% locally via WebAssembly.
 - [Nyxiontech PDF Tools](https://github.com/jurecki007/nyxiontech-tools) - In-browser toolkit of 25 PDF and image tools, including OCR and background removal, running fully client-side on WebAssembly with no backend.
 - [ConvertX](https://convertx.site) - Free in-browser video-to-audio converter that extracts high-quality 320kbps MP3 or lossless 16-bit WAV entirely client-side with WebAssembly; no upload, no sign-up.
+- [KBLimit](https://kblimit.com/) - Free browser-local image compressor, HEIC converter (via locally bundled `libheif-js` WebAssembly), and binary EXIF metadata scrubber targeting exact KB limits with zero server uploads.
 
 
 ### Frameworks
